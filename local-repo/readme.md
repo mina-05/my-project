@@ -1,1 +1,3 @@
-one of the best project
+# python-demo
+this is my first repo
+hello world
